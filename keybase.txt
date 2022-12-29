@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ryanminnick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rminnick.com
+  * I am ryanminnick (https://keybase.io/ryanminnick) on keybase.
+  * I have a public key ASDQc6FykZH3lE6EfXyB3gUXcVzgTNHGz582GS1cJElDpwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d073a1729191f7944e847d7c81de0517715ce04cd1c6cf9f36192d5c244943a70a",
+            "host": "keybase.io",
+            "kid": "0120d073a1729191f7944e847d7c81de0517715ce04cd1c6cf9f36192d5c244943a70a",
+            "uid": "7bcdd69e266bdea9d51272399e551c19",
+            "username": "ryanminnick"
+        },
+        "service": {
+            "hostname": "rminnick.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1466706840,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1466706724,
+        "hash": "022f056275d069ef2236d8ffdc2ac09445f6781ad34a0ad4ab190fa278f2dbf6de26dd866b8254c6c5be91f54b7a92c49eb8fd403452761ec7e0a99a4b0a094f",
+        "seqno": 496810
+    },
+    "prev": "1c1946583a550fc65a2a192da06de4673b48b41ee7ec96a8d2566d40b3e0fa1b",
+    "seqno": 31,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0HOhcpGR95ROhH18gd4FF3Fc4EzRxs+fNhktXCRJQ6cKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZDA3M2ExNzI5MTkxZjc5NDRlODQ3ZDdjODFkZTA1MTc3MTVjZTA0Y2QxYzZjZjlmMzYxOTJkNWMyNDQ5NDNhNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDA3M2ExNzI5MTkxZjc5NDRlODQ3ZDdjODFkZTA1MTc3MTVjZTA0Y2QxYzZjZjlmMzYxOTJkNWMyNDQ5NDNhNzBhIiwidWlkIjoiN2JjZGQ2OWUyNjZiZGVhOWQ1MTI3MjM5OWU1NTFjMTkiLCJ1c2VybmFtZSI6InJ5YW5taW5uaWNrIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJybWlubmljay5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ2NjcwNjg0MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDY2NzA2NzI0LCJoYXNoIjoiMDIyZjA1NjI3NWQwNjllZjIyMzZkOGZmZGMyYWMwOTQ0NWY2NzgxYWQzNGEwYWQ0YWIxOTBmYTI3OGYyZGJmNmRlMjZkZDg2NmI4MjU0YzZjNWJlOTFmNTRiN2E5MmM0OWViOGZkNDAzNDUyNzYxZWM3ZTBhOTlhNGIwYTA5NGYiLCJzZXFubyI6NDk2ODEwfSwicHJldiI6IjFjMTk0NjU4M2E1NTBmYzY1YTJhMTkyZGEwNmRlNDY3M2I0OGI0MWVlN2VjOTZhOGQyNTY2ZDQwYjNlMGZhMWIiLCJzZXFubyI6MzEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAVJO7NweL2bcgPPt9/m+12N6vs0LKdwhg6Ll6mcja76eZnrgicbGZKIcGtwdOq2WHO7/j6r5N0pUhXKu7UxkACKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEsqRvNPkszu7pHnFtZhE5TZfVBW7YyE362wAC3bEkqPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ryanminnick
+
+==================================================================
