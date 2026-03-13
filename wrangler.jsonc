@@ -1,0 +1,15 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "rminnick-com",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2025-03-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": ".open-next/assets",
+    "binding": "ASSETS"
+  },
+  "routes": [
+    { "pattern": "rminnick.com/*", "zone_name": "rminnick.com" },
+    { "pattern": "www.rminnick.com/*", "zone_name": "rminnick.com" }
+  ]
+}
